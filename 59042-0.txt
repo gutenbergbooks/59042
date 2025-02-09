@@ -1,31 +1,7 @@
-The Project Gutenberg EBook of The Stock Exchange, by Charles Duguid
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Stock Exchange
-
-Author: Charles Duguid
-
-Release Date: March 9, 2019 [EBook #59042]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE STOCK EXCHANGE ***
+*** START OF THE PROJECT GUTENBERG EBOOK 59042 ***
 
 
 
-
-Produced by David King and the Online Distributed
-Proofreading Team at http://www.pgdp.net. (This file was
-produced from images generously made available by The
-Internet Archive.)
 
 
 
@@ -277,8 +253,8 @@ impossible to form an estimate of the whole of the enormous amount, as
 there are dealings in so many securities which are not recognised in the
 Official List of the market. But the nominal value of the securities
 thus quoted at the end of 1912 reached the enormous total of
-£10,990,249,126; this comparing with £8,787,316,406 in 1902, an increase
-of £2,202,932,720, or no less than 25 per cent. In other words, the
+Â£10,990,249,126; this comparing with Â£8,787,316,406 in 1902, an increase
+of Â£2,202,932,720, or no less than 25 per cent. In other words, the
 amount of securities officially quoted in the Stock Exchange is
 one-quarter larger than it was a decade ago.
 
@@ -426,9 +402,9 @@ is the property of the proprietors, who, roughly speaking, must be
 members of the Stock Exchange. When at the beginning of the nineteenth
 century it was decided by the members of the Stock Exchange of that day
 to erect a new building, some of the more enterprising of them
-subscribed £20,000, and they laid the foundation-stone of the present
+subscribed Â£20,000, and they laid the foundation-stone of the present
 edifice, which has been vastly extended since and is still growing. The
-share capital is now £260,000 and the debenture capital £500,000. All
+share capital is now Â£260,000 and the debenture capital Â£500,000. All
 new members are now required to hold one or more shares, and only
 members are allowed to hold the shares except in the case of these few
 proprietors who acquired them before the end of the year 1875, when a
@@ -472,35 +448,35 @@ The enlargements and alterations and the provision of facilities for
 expeditious dealing and of conveniences for the comfort of the members
 naturally mean a large amount of expenditure; but, in spite of this, the
 Managers have always succeeded in making the market-place pay its
-proprietors, and pay them handsomely. On the four hundred shares of £50
+proprietors, and pay them handsomely. On the four hundred shares of Â£50
 each, which formed the original capital of the Stock Exchange when it
 was opened in 1802, there were no dividends for the first three years,
-but then a series of annual £10 dividends set in, with the result that
+but then a series of annual Â£10 dividends set in, with the result that
 within seven or eight years from the outset the whole of the capital had
 been returned in dividends. Until the end of 1853 the shares remained
-£50 paid, and by that time no less than £571 had been paid on each share
-in dividends. As there was a £25 call in 1853, the shares became £75
-paid, and in 1854 a dividend of £13 was distributed. In the following
+Â£50 paid, and by that time no less than Â£571 had been paid on each share
+in dividends. As there was a Â£25 call in 1853, the shares became Â£75
+paid, and in 1854 a dividend of Â£13 was distributed. In the following
 year there was no dividend--the fabric of the Stock Exchange had been
-entirely rebuilt--but a call of £25, making the shares £100 paid. On
-these £100 the dividends amounted in the years 1856 to 1867 inclusive to
-£192. Then in 1869 there was again no dividend, but a call of £25, and
+entirely rebuilt--but a call of Â£25, making the shares Â£100 paid. On
+these Â£100 the dividends amounted in the years 1856 to 1867 inclusive to
+Â£192. Then in 1869 there was again no dividend, but a call of Â£25, and
 in the next seven years, from 1869 to 1875 inclusive, the dividends
-amounted to £490 10_s._, and the calls to £155. Thus, at the end of
+amounted to Â£490 10_s._, and the calls to Â£155. Thus, at the end of
 1875, when a reorganisation of capital took place, the shares had become
-£280 paid, and on each of these had been distributed £1,266 10_s._ All
+Â£280 paid, and on each of these had been distributed Â£1,266 10_s._ All
 this is to show that the Stock Exchange was a huge financial success
 from its inception--that the market-place has paid its proprietors. By a
-further reorganisation of capital the shares had become £12 paid in
-1882, and in that year the dividend was £3 18_s._ It went on increasing
-steadily for many years after that: £5 being paid for 1888, £6 for 1893,
-£7 10_s._ for 1896, £8 for 1899, £9 for 1900, £10 for 1904, and £12 for
-1905. This £12 a share has so far been the maximum rate of dividend. In
-May, 1911, a call of £1 a share was made, making the shares £13 paid,
-and the most recent dividend was £10 10_s._ a share. The liability on
-the shares is unlimited, but no more than £2 can be called up in any one
-year. The market price of each £13 share has for some time been round
-about £160, whilst the 3 per cent. debentures are quoted at about 83.
+further reorganisation of capital the shares had become Â£12 paid in
+1882, and in that year the dividend was Â£3 18_s._ It went on increasing
+steadily for many years after that: Â£5 being paid for 1888, Â£6 for 1893,
+Â£7 10_s._ for 1896, Â£8 for 1899, Â£9 for 1900, Â£10 for 1904, and Â£12 for
+1905. This Â£12 a share has so far been the maximum rate of dividend. In
+May, 1911, a call of Â£1 a share was made, making the shares Â£13 paid,
+and the most recent dividend was Â£10 10_s._ a share. The liability on
+the shares is unlimited, but no more than Â£2 can be called up in any one
+year. The market price of each Â£13 share has for some time been round
+about Â£160, whilst the 3 per cent. debentures are quoted at about 83.
 
 
 
@@ -652,8 +628,8 @@ for admission on the special terms we have indicated. If the applicant
 has served as a clerk for four years, with a minimum service in the
 House of three years, his entrance fee is 250 guineas instead of 500
 guineas, his application requires the backing of only two guarantors
-instead of three, whilst the amount of each guarantee is only £300
-instead of £500. As the total number of clerks employed is some 2,500,
+instead of three, whilst the amount of each guarantee is only Â£300
+instead of Â£500. As the total number of clerks employed is some 2,500,
 and as there are twice as many members, it is obvious that whilst some
 members and firms desire more assistance within the House, many do not
 exercise the privilege of employing any clerks at all.
@@ -899,13 +875,13 @@ Government securities and for American and foreign railroad bonds, 5_s._
 per cent. on the nominal value; for foreign Government bonds the rate is
 2_s._ 6_d._ on the nominal value; for railway ordinary and deferred
 ordinary stocks the rate varies from 1/16 per cent. on the nominal value
-when the price is under £25 to 1 per cent. on the nominal value when the
-price is over £200; for other registered stocks the rate is 1/2 per
+when the price is under Â£25 to 1 per cent. on the nominal value when the
+price is over Â£200; for other registered stocks the rate is 1/2 per
 cent. on the money. In the case of shares, the commission varies from
 1-1/2_d._ to 2_s._ 6_d._ per share, according to the nominal value of
-each share, when the value is less than £25; for shares of the nominal
-value of £25 each or over, the rate is 10_s._ per cent. on the actual
-money. In the case of transactions over £1,000 the broker may charge
+each share, when the value is less than Â£25; for shares of the nominal
+value of Â£25 each or over, the rate is 10_s._ per cent. on the actual
+money. In the case of transactions over Â£1,000 the broker may charge
 half these rates. All these, of course, are minimum rates. There is
 nothing to prevent the broker charging more, if he can get it, but in
 practice the minimum has become the recognised scale.
@@ -1076,12 +1052,12 @@ added the amount of the broker's commission, called brokerage, and an
 item comprising the amounts payable for Government stamp duties and for
 registration in the books of the company. The Government stamp duties
 are: first, the amount payable on the contract--sixpence on all sums
-between £5 and £100, 1_s._ from £100 to £500, 2_s._ from £500 to £1000,
-and so on, according to a sliding scale, up to £1 for transactions
-exceeding £20,000; and secondly, the tax on the conveyance of ownership,
-which is at the rate of sixpence for every £5 up to £25; then 2_s._
-6_d._ for each additional £25 or part up to £300; 5_s._ for every
-additional £50 or part of £50 afterwards. The registration fee is
+between Â£5 and Â£100, 1_s._ from Â£100 to Â£500, 2_s._ from Â£500 to Â£1000,
+and so on, according to a sliding scale, up to Â£1 for transactions
+exceeding Â£20,000; and secondly, the tax on the conveyance of ownership,
+which is at the rate of sixpence for every Â£5 up to Â£25; then 2_s._
+6_d._ for each additional Â£25 or part up to Â£300; 5_s._ for every
+additional Â£50 or part of Â£50 afterwards. The registration fee is
 charged by the company for the trouble of registering the name of the
 buyer in its books, and varies somewhat, but is usually half-a-crown.
 The contract note also reminds the client that the transaction is
@@ -1251,11 +1227,11 @@ concerned, and it should be noted that the Clearing House only clears
 securities, not money--is the delivery or receipt of the difference
 between his sales and his purchases; the Clearing House does the rest.
 If, for instance, a member's sheet shows that he has bought a total of
-£6,000 of a certain stock, no matter in how many different bargains with
-different members, and has sold £5,000; then, instead of a separate
+Â£6,000 of a certain stock, no matter in how many different bargains with
+different members, and has sold Â£5,000; then, instead of a separate
 ticket having to pass through his hands for each separate bargain, the
 Clearing House discovers from the other sheets some member who has sold
-£1,000 more than he has bought of the particular stock in question. The
+Â£1,000 more than he has bought of the particular stock in question. The
 passing of the stock is then adjusted by bringing these two members
 together. The way in which all bargains which come within the Clearing
 House are cleared off can be easily grasped when it is recognised that
@@ -1513,25 +1489,25 @@ either to buy or sell so much stock on a certain day at a certain price.
 
 For instance, let us suppose an operator believes that the price of
 Consols, at the moment 91, is not justified. He thinks it will fall. He
-decides to indulge in a put option. He buys the right to sell £10,000
+decides to indulge in a put option. He buys the right to sell Â£10,000
 worth of the stock at the end of next month at the present price of 73.
 Believing that it will have fallen by that time, he sees the chance of
 buying it for less and making a profit by selling it at 73. For the
 option, the right to sell, he would probably have to pay about 10_s._
 per cent. If at the end of next month, when the option has to be
-declared, Consols have fallen to 71, he can obtain his £10,000 worth for
-£7,100, and exercise his option to sell them for £7,300, thus making a
-profit of £200 less the £50 he paid for the option and the broker's
-commission of about £12 10_s._ The utmost he could lose by the
-transaction would be the £50 plus commission paid for the option, which
+declared, Consols have fallen to 71, he can obtain his Â£10,000 worth for
+Â£7,100, and exercise his option to sell them for Â£7,300, thus making a
+profit of Â£200 less the Â£50 he paid for the option and the broker's
+commission of about Â£12 10_s._ The utmost he could lose by the
+transaction would be the Â£50 plus commission paid for the option, which
 he would, of course, not have exercised if the price movement had not
 been such as to produce a profit. However much the stock might have
-risen against him, he could not lose more than that £50 plus commission.
+risen against him, he could not lose more than that Â£50 plus commission.
 If in his belief that Consols would fall he had sold them as an ordinary
 Bear, not taking advantage of the option system, there would, of course,
 have been no limit to the possible loss, which would have been measured
 by the extent of the rise of the stock. If it had risen 2 instead of
-fallen 2, he would have lost, not £50, but £200 besides expenses.
+fallen 2, he would have lost, not Â£50, but Â£200 besides expenses.
 
 From this brief outline of the operation of a put option, it is quite
 easy to grasp what occurs in the case of a call option. As a matter of
@@ -1578,15 +1554,15 @@ The only question involved is as to whether the price will move widely
 enough.
 
 If, when Consols are 73, he pays 1 per cent. for a put-and-call option
-on £10,000 for the end of next month and they rise 2, he can sell them
-for £7,500; exercise his call, which, with the price he has paid for the
-option, cost £7,400; and pocket the profit of £100 less the commission
-of £12 10_s._ which he pays his broker. If during the option period
+on Â£10,000 for the end of next month and they rise 2, he can sell them
+for Â£7,500; exercise his call, which, with the price he has paid for the
+option, cost Â£7,400; and pocket the profit of Â£100 less the commission
+of Â£12 10_s._ which he pays his broker. If during the option period
 Consols fall 2, then he exercises that part of his option which enables
 him to put them upon the jobber, and pockets a similar profit less the
 similar commission which he pays his broker. If Consols during the
 period of the option do not move sufficiently either way to make it
-profitable for him to exercise his double option, then he loses the £100
+profitable for him to exercise his double option, then he loses the Â£100
 he has paid for it and the broker's commission.
 
 The price at which the operator has the option to buy or sell at the end
@@ -1625,7 +1601,7 @@ for an option on stocks which fluctuate widely is much higher than upon
 those which are steady, moving within very narrow limits. For instance,
 whereas 10_s._ per cent. has been mentioned as an ordinary price for an
 option on Consols, the price for an option on some American railroad
-shares would be £4 or £5. As the price of the option depends upon the
+shares would be Â£4 or Â£5. As the price of the option depends upon the
 extent, not the nature, of the fluctuation, it is naturally affected
 also by the duration of the period over which the option extends. The
 longer the period, of course, the higher the price. The Stock Exchange
@@ -1678,8 +1654,8 @@ not yet in a position to deliver. He must carry them over at the
 making-up price. This means that if they have risen to, say 21, he must
 pay the difference between that and the price at which he has sold. This
 puts him into the position of having sold at 21, so that his profit when
-he exercises his option will include, not only the £1 per share profit
-at which he aimed when he sold, but also the £1 difference which he has
+he exercises his option will include, not only the Â£1 per share profit
+at which he aimed when he sold, but also the Â£1 difference which he has
 to pay at the intervening settlement. It is obvious, however, that one
 who operates on his option in this way must be prepared to meet the
 differences and expenses that arise in connection with any settlements
@@ -1729,10 +1705,10 @@ of the market. A stockholder is frequently called a shareholder even by
 the most precise, but, strictly speaking, the terms are not synonymous;
 stocks are not shares. Stock is calculated by quantity and shares by
 number; stock is capital in a lump, while shares are capital divided
-into equal parts; although the unit of stock is usually £100, any
-quantity, such as £218 13_s._ 1_d._ worth, can, in the case of leading
+into equal parts; although the unit of stock is usually Â£100, any
+quantity, such as Â£218 13_s._ 1_d._ worth, can, in the case of leading
 stocks, be bought, whilst shares, which are usually of the denomination
-of £1, £5, or £10, are indivisible, and can be dealt in only in
+of Â£1, Â£5, or Â£10, are indivisible, and can be dealt in only in
 multiples of their nominal value.
 
 All the various kinds of securities--including both stocks and
@@ -1860,7 +1836,7 @@ price. If a stock at present quoted at 95 is redeemable ten years hence
 at 100, the tendency of the price is, of course, to rise to the 100, and
 one who buys the stock at 95, in calculating what it will yield him,
 takes into account, of course, not only the annual interest, but the
-fact that he must receive, as it were, a bonus of £5 when the company
+fact that he must receive, as it were, a bonus of Â£5 when the company
 buys the stock on the date of redemption. Similarly, if the stock is
 bought at a higher price than that at which it is redeemable at some
 future date, the buyer must regard the yield which it gives him as so
@@ -1931,8 +1907,8 @@ ordinary shares. Suppose a company has paid a dividend on its ordinary
 shares or stock averaging over a number of years 6 per cent. In one year
 it may have paid 4-1/4 per cent., in another year 8 per cent. This
 ordinary stock with its fluctuating dividend is divided into two parts.
-Each holder of £100 worth of stock receives £50 worth of preferred
-ordinary, entitled to a fixed dividend of 6 per cent., and £50 of
+Each holder of Â£100 worth of stock receives Â£50 worth of preferred
+ordinary, entitled to a fixed dividend of 6 per cent., and Â£50 of
 deferred ordinary, entitled to the remainder. Thus in the year when the
 company paid 4-1/4 per cent., a dividend of 6 per cent. would be paid on
 the preferred ordinary and a dividend of 2-1/2 per cent. on the deferred
@@ -1940,8 +1916,8 @@ ordinary--this making an average of 4-1/4 per cent. on the whole. In a
 year when a company pays 8 per cent., the preferred ordinary still
 receives 6 per cent. and the deferred ordinary 10 per cent. Instead of
 the stock being thus divided, the same object is attained by its
-duplication or watering. For each £100 of ordinary stock is issued a
-nominal £100 of preferred ordinary and a nominal £100 of deferred
+duplication or watering. For each Â£100 of ordinary stock is issued a
+nominal Â£100 of preferred ordinary and a nominal Â£100 of deferred
 ordinary. In the case of the 4-1/4 per cent. dividend, the preferred
 ordinary would receive its fixed 3 per cent., and the deferred ordinary
 the remaining 1-1/4 per cent. Of course, this stock-splitting or
@@ -1961,18 +1937,18 @@ shares. There may be 100,000 ordinary shares of one pound each and 100
 founders' shares also of one pound each. It may be stipulated that the
 founders' shares participate equally with the ordinary shares after the
 latter have received a 7 per cent. dividend. Suppose the divisible
-profits amount to £20,000, the ordinary shares take their 7 per cent.,
-which amounts to £7,000, and the remaining £13,000 has to be divided
+profits amount to Â£20,000, the ordinary shares take their 7 per cent.,
+which amounts to Â£7,000, and the remaining Â£13,000 has to be divided
 equally between the ordinary shares and the founders' shares. The
-100,000 ordinary shares receive a further £6,500, raising their dividend
+100,000 ordinary shares receive a further Â£6,500, raising their dividend
 to 13-1/2 per cent., and the 100 founders' shares receive the other
-£6,500, making their dividend 6,500 per cent. Had the company earned
-only £7,000, that would have sufficed to pay only the dividend on the
+Â£6,500, making their dividend 6,500 per cent. Had the company earned
+only Â£7,000, that would have sufficed to pay only the dividend on the
 ordinary shares, and the founders' shares would have received nothing.
 
 An objection to the system is at once evident. If the directors were
 under the influence of the holders of the founders' shares, as they
-usually are, they would not be content to earn a steady profit of £7,000
+usually are, they would not be content to earn a steady profit of Â£7,000
 for the advantage of the large number of ordinary shareholders, but
 would strain to divide a large profit in one year, even at the expense
 of making an actual loss in the next. For this and other reasons
@@ -2090,19 +2066,19 @@ with other members are immediately reversed at the price ruling at the
 time of the declaration of the default, which is called the
 "hammer-price."
 
-Suppose the defaulter has sold £100 stock to A at 95, and the
-hammer-price is 93, A must sell the stock back for £93, and rank as a
-creditor to the estate for the difference of £2. Suppose the defaulter
-has also bought £100 stock from B at £95, and the hammer-price is 93, B
-must buy the stock back for £93, and hand over the difference of £2 to
+Suppose the defaulter has sold Â£100 stock to A at 95, and the
+hammer-price is 93, A must sell the stock back for Â£93, and rank as a
+creditor to the estate for the difference of Â£2. Suppose the defaulter
+has also bought Â£100 stock from B at Â£95, and the hammer-price is 93, B
+must buy the stock back for Â£93, and hand over the difference of Â£2 to
 the estate. In this way all outstanding bargains are cleared out of the
 way, and the Official Assignees, in their administration of the estate,
 have merely to pay as big a dividend as they can on the differences out
 of the debtor's assets.
 
-Supposing the defaulter to be a jobber, and an outsider has sold £100
+Supposing the defaulter to be a jobber, and an outsider has sold Â£100
 stock to him, through a broker of course, at 95. As it has fallen to 93
-the jobber owes the outsider a difference of £2, and that outsider
+the jobber owes the outsider a difference of Â£2, and that outsider
 should in theory rank as a creditor for the amount. He would not, of
 course, lose any part of his stock, which he does not deliver, but his
 attempt to sell the stock has been rendered ineffective; and even if he
@@ -2197,7 +2173,7 @@ it collects and sets forth. The List is an imposing publication of
 sixteen closely printed pages, and contains the names of over four
 thousand securities. It is issued at about 5 o'clock each evening (about
 2 o'clock on Saturdays) and gives the prices at 3.30 (1 o'clock on
-Saturdays). The annual subscription for the List is £4, exclusive of
+Saturdays). The annual subscription for the List is Â£4, exclusive of
 postage, and single copies cost sixpence each. Long before the time of
 publication, every day there may be seen outside the offices a motley
 queue of commissionaires, clerks, and office-boys waiting for the copies
@@ -2446,7 +2422,7 @@ have been granted; it gives notice as to when securities are to be
 quoted ex dividend; it announces dividends, forthcoming company
 meetings, and closing of transfer books; publishes important notices
 issued by companies, sets forth traffic returns, and imparts other
-information. The subscription is £2 10_s._ a year, exclusive of postage,
+information. The subscription is Â£2 10_s._ a year, exclusive of postage,
 and single copies may be obtained for 1_s._ 3_d._ each. It consists of
 about thirty large pages.
 
@@ -2462,7 +2438,7 @@ the rate of interest borne or the dividends paid in the past few years,
 with the highest and lowest prices where they are quoted in the Official
 List. What amounts to an outline history of every security is furnished,
 and in the case of companies the names of the directors and officials
-are set forth. Besides being thus an encyclopædia of Stock Exchange
+are set forth. Besides being thus an encyclopÃ¦dia of Stock Exchange
 securities, each annual volume contains a number of masterly
 authoritative treatises on topical subjects, and other appropriate
 information of a general character. In the compilation of such a work,
@@ -2815,7 +2791,7 @@ of sixpence for a day ticket.
 
 It was but a stepping-stone, however. At the beginning of the nineteenth
 century another subscription was raised amongst the evolutionists, this
-time to a capital of as much as £20,000; and the Stock Exchange was
+time to a capital of as much as Â£20,000; and the Stock Exchange was
 established with an exclusive membership, and with much the same
 constitution as exists to-day. The foundation-stone was laid in Capel
 Court on May 18th, 1801, and under a deed of settlement which had been
@@ -2865,7 +2841,7 @@ lasting just a decade. The boom and collapse of 1835 were connected with
 foreign loan issues, and in 1845 was the great railway mania.
 
 In the middle of the century, in 1850, the number of members of the
-Stock Exchange was only 864, and the annual subscription was only £10.
+Stock Exchange was only 864, and the annual subscription was only Â£10.
 The Official List at that time contained the names of fewer than 300
 securities; until 1843 it had been published not daily, but only twice a
 week. Soon after the middle of the century, the Stock Exchange was
@@ -2904,7 +2880,7 @@ inquire into the affairs of the Stock Exchange itself.
 An important enlargement of the Stock Exchange was opened in January,
 1885, the addition being made of what is still called the New House.
 Three years before, in 1882, "Burdett's Official Intelligence," the
-Stock Exchange encyclopædia, had appeared for the first time. It had a
+Stock Exchange encyclopÃ¦dia, had appeared for the first time. It had a
 precursor in "The Railway Intelligence," and in 1899 its title was
 altered to "The Stock Exchange Official Intelligence," the alteration
 not being without significance. Soon after the New House was opened, in
@@ -3076,7 +3052,7 @@ enterprise in the direction of private telephone wires to individual
 clients, and the great landlords in the neighbourhood of the House have
 been quick to seize the opportunity which presents itself for getting
 big rents for small premises. The Stock Exchange Managers themselves are
-well to the front in the arena of competition, and between £100 and £200
+well to the front in the arena of competition, and between Â£100 and Â£200
 a year is demanded for the rent of one small room and telephone close to
 Capel Court. By this means a broker and his client are in constant touch
 with one another--much more so than would be the case if the general
@@ -3238,8 +3214,8 @@ Fund as old as the Stock Exchange itself, for the benefit of members who
 fall upon troublous times. It has a capital of nearly a quarter of a
 million sterling, and an annual income which, although it varies in
 accordance with the prosperity of the times, has recently been over
-£20,000. There is also a Stock Exchange Clerks' Provident Fund that has
-been in existence about forty years, its income of about £2,000 a year
+Â£20,000. There is also a Stock Exchange Clerks' Provident Fund that has
+been in existence about forty years, its income of about Â£2,000 a year
 comprising the subscriptions of those clerks who are members of the
 fund, and donations and subscriptions by members of the Stock Exchange.
 There are about 1,500 members, and grants are made from the fund in
@@ -3251,10 +3227,10 @@ words recently written by a Lord Mayor of London, "the spirit of loyalty
 and patriotism which has ever characterised the members of the House is
 especially exhibited in practical and overflowing sympathy in times of
 distress and anxiety." Those words were written in acknowledgment of the
-receipt of a sum of nearly £35,000, which the members of the Stock
+receipt of a sum of nearly Â£35,000, which the members of the Stock
 Exchange had subscribed to the Mansion House Fund for the relief of the
 widows and orphans and other sufferers by the Transvaal War. They had
-subscribed over £20,000 to the Transvaal Refugees' Fund, and gave not
+subscribed over Â£20,000 to the Transvaal Refugees' Fund, and gave not
 only of their money but of their blood in the cause. One member returned
 from the field with the Victoria Cross. The Stock Exchange supports its
 own hospital wards, its own lifeboats, its boys' home, and so on.
@@ -3811,367 +3787,4 @@ Typographical errors were silently corrected.
 
 End of the Project Gutenberg EBook of The Stock Exchange, by Charles Duguid
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE STOCK EXCHANGE ***
-
-***** This file should be named 59042-8.txt or 59042-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/9/0/4/59042/
-
-Produced by David King and the Online Distributed
-Proofreading Team at http://www.pgdp.net. (This file was
-produced from images generously made available by The
-Internet Archive.)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 59042 ***
